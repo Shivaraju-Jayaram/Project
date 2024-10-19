@@ -1,8 +1,0 @@
-1. Date table - Completed
-2. Date slicer (Slider) on page - Completed.
-3. Count the number of cars of a particular brand/company/department. These should be
-Individual cards grouped together - Completed.
-4. Calculated column on car table that shows the latest carboughdate based on Buyer details
-5. Calculate the average salary from a particular country - Completed.
-6. Calculate the make year with the highest average price - Completed.
-7. The most popular car brand for each gender - Completed.
