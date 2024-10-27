@@ -1,4 +1,4 @@
-# Car Buyer's Analysis
+# Car Data Analysis
 
 ## Overview of Datasets
 This collection consists of three interrelated datasets that provide comprehensive information about buyers, their associated cars, and the companies that manufacture those cars. Together, these datasets can be utilized for various analyses, including customer demographics, purchasing behavior, and industry insights.
